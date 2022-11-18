@@ -2,7 +2,7 @@
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
 
 <h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
-   
+    
 #### VERSION 2 CHANGES : 
 #### 4X Faster with cython
 #### Fix bug BUY token After add LIQUIDITY
