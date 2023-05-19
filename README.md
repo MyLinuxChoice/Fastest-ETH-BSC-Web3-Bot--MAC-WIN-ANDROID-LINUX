@@ -9,7 +9,7 @@
 #### Fix bug on android 11 (bug:close after start)
 #### Now you can set SLIPPAGE 0.1 
 #### ADD Auto SLIPPAGE  
-
+ 
 <h3 align="center">⭐️ Support Uniswap Matic BSC ⭐️</h3>
  
   
