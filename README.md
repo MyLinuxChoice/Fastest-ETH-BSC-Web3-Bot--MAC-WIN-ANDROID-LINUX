@@ -11,7 +11,7 @@
 #### ADD Auto SLIPPAGE  
  
 <h3 align="center">⭐️ Support Uniswap Matic BSC ⭐️</h3>
- 
+  
   
 [![Version](https://img.shields.io/badge/Codename-WHITEHAT-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
